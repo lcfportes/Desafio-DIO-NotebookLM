@@ -8,3 +8,6 @@ Data Analyst to Data Scientist Roadmap: O objetivo desse notebook é criar um ro
 
 
 <img width="1843" height="1007" alt="image" src="https://github.com/user-attachments/assets/9daa0b7d-e4fc-4e40-beba-e93ec6021f13" />
+
+<img width="1306" height="729" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/f24c00d8-8660-4b50-82ee-fc545661e299" />
+[Blueprint_da_Carreira_em_Dados_2026.pdf](https://github.com/user-attachments/files/33083459/Blueprint_da_Carreira_em_Dados_2026.pdf)
