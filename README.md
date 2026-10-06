@@ -8,3 +8,6 @@ Data Analyst to Data Scientist Roadmap: O objetivo desse notebook é criar um ro
 
 
 <img width="1843" height="1007" alt="image" src="https://github.com/user-attachments/assets/9daa0b7d-e4fc-4e40-beba-e93ec6021f13" />
+git add Blueprint_da_Carreira_em_Dados_2026.pdf
+git commit -m Blueprint_da_Carreira_em_Dados_2026.pdf
+git push origin main
